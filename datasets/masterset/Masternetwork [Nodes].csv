@@ -1,0 +1,29 @@
+Id,Label,Affiliation,Affiliation2,Modularity Class,Knownalias,status,Subgroup,frequency,type
+13,David Hartley,Licit,,5,,,Civilian,,
+11,Unidentified Zeta,Zetas,,5,,,,,
+8,MX1,State,Cartel Unspecified,2,,,,,
+1,Michael Jackson Apodaca,Juarez,State - US,1,,,Army - US,,
+2,Ruben Rodriguez Dorado,Juarez,State - US,0,,,Army - US,,
+3,Jose Daniel Gonzalez Galeana,Juarez,Law,0,,,,,
+4,Christopher Andrew Duran,Juarez,State,0,,,Army - US,,
+9,Stratfor,Licit,State,3,,,,,
+12,Zetas,,,4,,,,,
+5,Military - US,State,,1,,,Military - US,,
+6,Law Enforcement - US,State,,0,,,,,
+7,Juarez,,,0,,,,,
+41,Miguel Trevino Morales,Zetas,,0,,arrested,,20,Var1; Var2
+42,Oscar Omar Trevino Morales,Zetas,,0,,,,22,Var1; Var2
+43,Jose Trevino Morales,Zetas,,0,,,,22,Var1; Var2
+44,Ivan Velazquez Caballero,Zetas,,0,El Taliban,arrested,,20,Var1; Var2
+45,Heriberto Lazcano Lazcano,Zetas,State,0,The Executioner,killed,Special Forces - MX,22,Var1; Var2
+46,Ricardo Almanza Morales,Zetas,,0,,,,22,Var1; Var2
+47,Eduardo Almanza Morales,Zetas,,0,,,,22,Var1; Var2
+48,Raymundo Almanza Morales,Zetas,,0,,,,22,Var1; Var2
+49,Flavio Mendez Santiago,Zetas,,0,,,,22,Var1; Var2
+10,Sergio Pena Solis,Zetas,,0,,,,22,Var1; Var2
+51,Raul Lucio Hernandez Lechuga,Zetas,,0,,,,22,Var1; Var2
+52,Military - MX,State,,0,,,Military - MX,,
+53,Navy- MX,State,,0,,,Navy - MX,,
+54,Special Forces - MX,State,,0,,,,,
+55,Carlos Arturo Pitulua-Carrillo,Zetas,,0,El Bam Bam,arrested,,,
+"""Carlos Arturo Pitulua-Carrillo""","""Carlos Arturo Pitulua-Carrillo""",,,0,,,,1,endnode
